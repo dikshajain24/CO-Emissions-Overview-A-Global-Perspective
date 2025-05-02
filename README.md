@@ -4,6 +4,8 @@ This project provides an interactive CO₂ Emissions Overview from a global pers
 📊 Project Overview
 This Tableau dashboard visualizes the global CO₂ emissions data, offering insights on emissions trends by country, industry, and year. It allows users to interactively explore and analyze emissions data, helping to drive better decisions around sustainability and climate change.
 
+View the dashboard here: https://public.tableau.com/authoring/COEmissionsOverviewAGlobalPerspective/Dashboard3/CO%E2%82%82%20Emissions%20Overview%3A%20A%20Global%20Perspective#1
+
 Key Features:
 Interactive Tableau Dashboard: Engage with the data through an intuitive, interactive dashboard.
 
